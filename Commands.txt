@@ -1,0 +1,5 @@
+Rem Run Mongo database
+Mongod
+
+Rem In a speparate command window run app with
+SET DEBUG=express-locallibrary-tutorial:* & npm run devstart
